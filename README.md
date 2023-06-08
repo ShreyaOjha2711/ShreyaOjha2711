@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreya Ojha</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyaojha2711&label=Profile%20views&color=0e75b6&style=flat" alt="shreyaojha2711" /> </p>
 
-- 💬 Ask me about **Java, Java GUI, Core Electronics(Arduino, Proteus)**
+- 💬 Ask me about **Java, Java GUI**
 
 - 📫 How to reach me: **ShreyaShreya2711@gmail.com**
 
